@@ -1,3 +1,3 @@
 links de los forks :
-[^1]: KatyStark/KatyStark.github.io
-[^2]: GriffithBtGrl/catalina-cv
+KatyStark/KatyStark.github.io
+GriffithBtGrl/catalina-cv
