@@ -17,11 +17,12 @@ SQL
 
 🎮 Intereses
 - Videojuegos y emulación.
-- Digimon.
 - Tecnología y proyectos personales.
-🌐 Encuéntrame
-- GitHub: FranciBW
-- Portafolio personal.
+## 🌐 Mis enlaces
+
+- 💼 **Portafolio:** [FranciBW](https://francibw.github.io/)
+- 🏆 **RetroAchievements:** [FranciBW](https://retroachievements.org/user/FranciBW)
+- 💻 **GitHub:** [@FranciBW](https://github.com/FranciBW)
 
 
 
